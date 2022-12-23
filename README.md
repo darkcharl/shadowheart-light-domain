@@ -1,3 +1,3 @@
-# Shadowheart as Druid
+# Shadowheart as Light Domain Cleric
 
-Modifies Shadowheart's class to Druid (preferably Moon :)).
+Modifies Shadowheart's subclass to Light Domain.
